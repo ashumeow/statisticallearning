@@ -8,4 +8,3 @@
  - Hastie and Tibsharani, 1990, [Generalized Additive Models](http://amzn.to/1zdFKxT)
  - Wood, 2006, [Generalized Additive Models: An Introduction with R](http://amzn.to/1xwfL0D)
  - Schapire and Freund, 2012, [Boosting: Foundations and Algorithms](http://amzn.to/1ww3rxY)
- 
