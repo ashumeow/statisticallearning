@@ -7,6 +7,7 @@
 
 ## Boosting
 
+ - Buhlmann and Yu, *Journal of the American Statistical Association*, 2003, "[Boosting with the L2 Loss](http://zmjones.com/static/statistical-learning/buhlmann-jasa-2003.pdf)"
  - Freidman, Hastie, and Tibsharani, *The Annals of Statistics*, 2000, "[Additive Logistic Regression: A Statistical View of Boosting](http://projecteuclid.org/download/pdf_1/euclid.aos/1016218223)"
  -  Buhlmann and Hothorn, *Statistical Science*, 2007, "[Boosting Algorithms: Regularization, Prediction, and Model Fitting](http://www.statistik.lmu.de/institut/ag/biostat/vorlesungen/SS10/BAA/Literatur/Boosting_StatisticalScience.pdf)"
  - Freidman, *The Annals of Statistics*, 2001, "[Greedy Function Approximation: A Gradient Boosting Machine](http://projecteuclid.org/download/pdf_1/euclid.aos/1013203451)"
