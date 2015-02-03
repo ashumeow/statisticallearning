@@ -1,5 +1,6 @@
 # General
 
+ - Domingos, *Communications of the ACM*, 2012, "[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)"
  - Breiman, *Statistical Science*, 2001, "[Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)](http://zmjones.com/static/statistical-learning/breiman-ss-2001.pdf)"
  - Galit, *Statistical Science*, 2010, "[To Explain or to Predict?](http://projecteuclid.org/download/pdfview_1/euclid.ss/1294167961)"
 
