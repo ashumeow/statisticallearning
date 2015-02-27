@@ -30,6 +30,7 @@
  - Hajjem, Bellavance, and Larocque, *Journal of Statistical Computation and Simulation*, 2014, "[Mixed-effects random forest for clustered data](http://zmjones.com/static/statistical-learning/hajjem-jscs-2014.pdf)"
  - Louppe, Wehenkel, Sutera, and Geurts, *Advances in Neural Information Processing Systems*, 2013, "[Understanding variable importances in forests of randomized trees](http://zmjones.com/static/statistical-learning/louppe-nips-2013.pdf)"
  - Louppe, *Arxiv*, 2014, "[Understanding Random Forests: From Theory to Practice](http://arxiv.org/pdf/1407.7502v1.pdf)"
+ - Wager, Efron, and Tibsharani, *Journal of Machine Learning Research*, 2014, "[Confidence Intervals for Random Forests: The Jackknife and the Infinitesimal Jackknife](http://www.jmlr.org/papers/volume15/wager14a/wager14a.pdf)"
 
 ## Feed-forward Neural Networks
 
