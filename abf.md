@@ -16,6 +16,7 @@
 
  - Hothorn, Hornik, and Zeileis, *Journal of Computational and Graphical Statistics*, 2006, "[Unbiased recursive partitioning: A conditional inference framework](http://zmjones.com/static/statistical-learning/hothorn-jcgs-2006.pdf)"
  - Breiman, *Machine Learning*, 1996, "[Bagging Predictors](http://zmjones.com/static/statistical-learning/breiman-ml-1996.pdf)"
+ - Segal, *Journal of the American Statistical Association*, "[Tree-Structured Methods for Longitudinal Data](http://zmjones.com/static/statistical-learning/segal-jasa-1992.pdf)"
 
 ## Random Forests
 
@@ -31,6 +32,8 @@
  - Louppe, Wehenkel, Sutera, and Geurts, *Advances in Neural Information Processing Systems*, 2013, "[Understanding variable importances in forests of randomized trees](http://zmjones.com/static/statistical-learning/louppe-nips-2013.pdf)"
  - Louppe, *Arxiv*, 2014, "[Understanding Random Forests: From Theory to Practice](http://arxiv.org/pdf/1407.7502v1.pdf)"
  - Wager, Efron, and Tibsharani, *Journal of Machine Learning Research*, 2014, "[Confidence Intervals for Random Forests: The Jackknife and the Infinitesimal Jackknife](http://www.jmlr.org/papers/volume15/wager14a/wager14a.pdf)"
+ - Lin and Jeon, *Journal of the American Statistical Association*, 2006, "[Random forests and adaptive nearest neighbors](http://zmjones.com/static/statistical-learning/lin-jasa-2006.pdf)"
+ - Segal and Xaio, *Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery*, 2011, "[Multivariate Random Forests](http://www.researchgate.net/profile/Mark_Segal/publication/220080658_Multivariate_random_forests/links/0912f5106eb442bd0d000000.pdf)"
 
 ## Feed-forward Neural Networks
 
